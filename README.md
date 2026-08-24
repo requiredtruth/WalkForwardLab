@@ -3,7 +3,7 @@
 WalkForwardLab is a zero-dependency audit harness for a common failure mode: **parameter selection that quietly sees the test period**. It builds expanding historical folds, selects a tiny strategy grid on training data only, skips a visible embargo, freezes the selection, and measures the following non-overlapping window.
 
 ```sh
-./doit.sh
+./install.sh
 ```
 
 That command runs the tests, compiles every module, and processes bundled synthetic prices. It downloads nothing and needs no account or credential.
