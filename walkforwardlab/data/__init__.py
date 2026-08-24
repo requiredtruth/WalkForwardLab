@@ -1,0 +1,1 @@
+"""Bundled synthetic historical data."""

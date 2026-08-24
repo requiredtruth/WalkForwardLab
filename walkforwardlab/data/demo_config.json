@@ -1,0 +1,1 @@
+{"cost_bps":"5","embargo_size":2,"lookbacks":[2,3,5],"modes":["momentum","reversion"],"step_size":5,"test_size":5,"thresholds":["0","0.01"],"train_size":15}
